@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2685" started-at="2019-10-15T23:41:05Z" finished-at="2019-10-15T23:41:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2685" started-at="2019-10-15T23:41:05Z" finished-at="2019-10-15T23:41:08Z">
+      <class name="TestClass">
+        <test-method status="PASS" signature="deleteFileKey()[pri:0, instance:TestClass@b754dc71]" name="deleteFileKey" duration-ms="2183" started-at="2019-10-15T23:41:05Z" finished-at="2019-10-15T23:41:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteFileKey -->
+        <test-method status="PASS" signature="deleteFileNoKey()[pri:0, instance:TestClass@b754dc71]" name="deleteFileNoKey" duration-ms="148" started-at="2019-10-15T23:41:07Z" finished-at="2019-10-15T23:41:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteFileNoKey -->
+        <test-method status="PASS" signature="downloadFileKey()[pri:0, instance:TestClass@b754dc71]" name="downloadFileKey" duration-ms="46" started-at="2019-10-15T23:41:07Z" finished-at="2019-10-15T23:41:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downloadFileKey -->
+        <test-method status="PASS" signature="downloadFileNoKey()[pri:0, instance:TestClass@b754dc71]" name="downloadFileNoKey" duration-ms="40" started-at="2019-10-15T23:41:07Z" finished-at="2019-10-15T23:41:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- downloadFileNoKey -->
+        <test-method status="PASS" signature="uploadFile()[pri:0, instance:TestClass@b754dc71]" name="uploadFile" duration-ms="228" started-at="2019-10-15T23:41:08Z" finished-at="2019-10-15T23:41:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uploadFile -->
+      </class> <!-- TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
